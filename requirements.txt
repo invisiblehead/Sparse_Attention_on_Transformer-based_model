@@ -1,0 +1,7 @@
+transformers == 4.21.0
+datasets
+dataclasses
+numpy
+scipy
+scikit-learn
+pytorch
