@@ -48,7 +48,7 @@ For the processed dataset, please go to: https://zenodo.org/deposit/7606184 Also
 
 ## How to use the Token pruning with longformer:
 
-### Once the conda virtual env: ltp1 is set up on your VM (Please don't update the default transformer in this virtual env, since it takes time and effort to set up ltp in huggingface transformer.):
+### Once the conda virtual env: ltp is set up on your VM (Please don't update the default transformer in this virtual env, since it takes time and effort to set up ltp in huggingface transformer.):
 
 #### 1. To activate the virtual env:
        $ conda activate ltp
